@@ -14,4 +14,13 @@ Analysis was performed that compared the variable “pace” (rated 1-7 on a sca
 ## Analysis:
 ## Note Taking as it relates to a Pacing Perspective:
 <img src = "static/imgs/pace_notes_bar.png" alt = "Graph of Notes and Pace (bar)." width = "500"/>
-This is basic paragraph text
+The first bar graph shows that regardless of how much students take notes in class, they feel that the pacing of the class is mostly moderate, though there is a slight positive relationship.
+
+<img src = "static/imgs/pace_notes_line.png" alt = "Graph of Notes and Pace (line)." width = "500"/>
+
+The line graph shows that the people who take more notes are the ones who feel that the class is paced faster, however, there is only about a one point difference pacing persepctive within the range of note-taking.
+
+<img src = "static/imgs/pace_notes_understanding.png" alt = "Graphs of Note taking and pace, sorted by understanding." width = "500"/>
+
+The series of line graphs that make up the third visual representation of this section add in an additional factor: understanding. These graphs show a similar minimal trend in pacing perspective across note-taking lines, but they reveal that generally, those with a greater level of understanding feel that the pace of COMP110 is moving more slowly.
+
