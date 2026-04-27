@@ -39,4 +39,40 @@ The second bar graph shows that there isn’t a strong relationship between paci
 
 The final line graph shows that students find that the class is more interesting when they understand it better. It also shows us that the students who understand the class better feel that it is moving too slowly, while the students with lower levels of understanding feel that it is moving too quickly.
 
+### Pacing Perspective as it relates to Prior Experience
+<img src="static/imgs/pacebyexp.png" alt="Graph of Experience and Pace. "  width="500"/>
+
+
+This line graph shows that, unless students have a high level of prior experience, they are unlikely to think the class is moving at a faster-than-average pace.
+
+
+<img src="static/imgs/exp_understand.png" alt="Graph of Experience and Understanding. "  width="500"/>
+
+
+Our second line graph also shows that higher levels of understanding are related to increased prior experience.
+
+### Pace Rating Counts
+<img src="static/imgs/pace_count.png" alt="Graph of Counts of Pace Ratings. "  width="500"/>
+
+
+The graph above shows that most people feel that the pacing of the class is average or slightly faster than average.
+
+
+### Prior Experience
+
+<img src="static/imgs/exp_count.png" alt="Graph of Counts of Prior Experience. "  width="500"/>
+
+
+The graph above shows that most people have six months or less of prior programming experience.
+
+
+## The Conclusion:
+
+
+My analysis of the data does not definitively support my initial proposal that the pacing of COMP110 be sped up. In my analysis, I found that indicators of class engagement, like note-taking, were correlated with perspectives that the class was fast-paced. I also found that indicators of class performance, like levels of understanding, decreased as the the pacing perspective got faster. Additionally, I found that the people who understood COMP110 content better felt that the class was moving to slowly and they had more prior experience. These findings at first made me think that the class was too slow of a pace. However, I had to go back to the first two graphs I had made, when I was visualizing the counts of my prior_exp variables and my pace variables. While a too-slow-pace is correlated with a greater understadning, it is important to note that this subset of people is NOT the majority of students in COMP110. Most of the survey respondents had less than six months of coding experience and felt the class was moving at an average or above average pace. Thus, most COMP110 students would NOT actually benefit from an increase in pace, because most COMP110 students do NOT have above average understanding levels or feel that the pace of the class is moving to quickly. Thus, while the experienced or understanding students would benefit and be more enriched by a faster pace, the majority of COMP110 students would actually suffer, because increasing the pace would make students even more lost and confused (decrease understanding levels).
+
+Future analysis should compare grades, more descriptive measures of academic performance, across pacing perspectives to identify if the class is too fast or too slow. Furthermore, more measures of class engagement can be used to determine whether or not other changes can be made to the pacing or structure of the class.
+
+
+Ultimately, my suggestion is that the pacing remain as it is. I, personally, felt that the pacing was too slow, but most students felt the pacing was average or just above average, which is adequate for an intro-level college course. Thus, I feel that the pacing should remain the same to accomodate the learning processes and understanding levels of most students in COMP110.
 
